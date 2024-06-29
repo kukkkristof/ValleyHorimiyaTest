@@ -1,0 +1,1622 @@
+[
+  {
+    "name": "shin",
+    "minute": 0,
+    "second": 13,
+    "text": "Redben, ennyi lenne a mai óra.\nNe feledjétek, hogy főiskolai vizsgákra fogtok tanulni, szóval nem fogjátok tudni élvezni a nyarat.\nMenjetek, és élvezzétek a medencét vagy a tengerpartot, amíg még lehet.\nÖrülnék, ha veletek mehetnék."
+  },
+  {
+    "name": "toru",
+    "minute": 0,
+    "second": 30,
+    "text": "Micsoda? Mi a fenéért hívnánk meg egy tanárt magunkkal?"
+  },
+  {
+    "name": "shin",
+    "minute": 0,
+    "second": 35,
+    "text": "Ó, kérlek Ishikawa!\nNincs értelme medencézni vagy a strandra menni egy csomó sráccal."
+  },
+  {
+    "name": "toru",
+    "minute": 0,
+    "second": 42,
+    "text": "Ó ez igaz."
+  },
+  {
+    "name": "yuki",
+    "minute": 0,
+    "second": 44,
+    "text": "Istenem, de hülyék…\nYasuda elég dögös, de folyton kinyitja azt a hülye száját."
+  },
+  {
+    "name": "hori",
+    "minute": 0,
+    "second": 54,
+    "text": "Ő egy jó tanár.\n Ne is törődj vele!"
+  },
+  {
+    "name": "nishi",
+    "minute": 0,
+    "second": 59,
+    "text": "Miért? Történt köztetek valami, Hori?"
+  },
+  {
+    "name": "hori",
+    "minute": 1,
+    "second": 3,
+    "text": "Igen, ma reggel"
+  },
+  {
+    "name": "shin",
+    "minute": 1,
+    "second": 6,
+    "text": "Hori! Fel a fejjel oké?"
+  },
+  {
+    "name": "hori",
+    "minute": 1,
+    "second": 8,
+    "text": "Mi? Miért?"
+  },
+  {
+    "name": "shin",
+    "minute": 1,
+    "second": 10,
+    "text": "Itt egy kevésbé ismert tény rólam: szeretem a kismellű lányokat!\nSzóval legyen egy kis önbizalmad!"
+  },
+  {
+    "name": "hori",
+    "minute": 1,
+    "second": 16,
+    "text": "Így próbált felvidítani."
+  },
+  {
+    "name": "nishi",
+    "minute": 1,
+    "second": 18,
+    "text": "Sajnálom. Fogalmam sincs, mit akart csinálni."
+  },
+  {
+    "name": "yuki",
+    "minute": 1,
+    "second": 20,
+    "text": "Ó és Hori!"
+  },
+  {
+    "name": "hori",
+    "minute": 1,
+    "second": 23,
+    "text": "Hm?"
+  },
+  {
+    "name": "yuki",
+    "minute": 1,
+    "second": 24,
+    "text": "Egy másik iskolából jött srác elkérte a számod.\nOdaadjam neki?"
+  },
+  {
+    "name": "hori",
+    "minute": 1,
+    "second": 30,
+    "text": "Nem volt mersze megkérdezni tőlem szóval ne. Koptasd le!"
+  },
+  {
+    "name": "yuki",
+    "minute": 1,
+    "second": 33,
+    "text": "Áh, már megint?"
+  },
+  {
+    "name": "toru",
+    "minute": 1,
+    "second": 36,
+    "text": "Hé, nem akartok karaokézni hazafelé?"
+  },
+  {
+    "name": "yuki",
+    "minute": 1,
+    "second": 38,
+    "text": "Karaokézni?"
+  },
+  {
+    "name": "toru",
+    "minute": 1,
+    "second": 40,
+    "text": "Kaptam ezeket a kuponokat, amik ma lejárnak."
+  },
+  {
+    "name": "yuki",
+    "minute": 1,
+    "second": 42,
+    "text": "Két és fél óra! Ez egy remek ajánlat!"
+  },
+  {
+    "name": "nishi",
+    "minute": 1,
+    "second": 44,
+    "text": "Szeretnél menni, Hori?"
+  },
+  {
+    "name": "toru",
+    "minute": 1,
+    "second": 47,
+    "text": "Gyerünk!"
+  },
+  {
+    "name": "hori",
+    "minute": 1,
+    "second": 49,
+    "text": "Bocsi, de passzolom."
+  },
+  {
+    "name": "yuki",
+    "minute": 1,
+    "second": 52,
+    "text": "Te mindig csak passzolsz."
+  },
+  {
+    "name": "hori",
+    "minute": 1,
+    "second": 55,
+    "text": "Tényleg nagyon sajnálom!"
+  },
+  {
+    "name": "miyamura",
+    "minute": 1,
+    "second": 58,
+    "text": "Hori-san"
+  },
+  {
+    "name": "hori",
+    "minute": 2,
+    "second": 0,
+    "text": "Huh?"
+  },
+  {
+    "name": "miyamura",
+    "minute": 2,
+    "second": 2,
+    "text": "Leejtetted a telefonod."
+  },
+  {
+    "name": "hori",
+    "minute": 2,
+    "second": 4,
+    "text": "Ó köszönöm"
+  },
+  {
+    "name": "yuki",
+    "minute": 2,
+    "second": 8,
+    "text": "Istenem, Miyamura olyan komornak tűnik.\nCsak úgy, mint mindig.\nLefogadom, hogy egy otaku."
+  },
+  {
+    "name": "miyamura",
+    "minute": 2,
+    "second": 16,
+    "text": "Ó imádom ezt az angyalt!"
+  },
+  {
+    "name": "hori",
+    "minute": 2,
+    "second": 20,
+    "text": "Otaku?"
+  },
+  {
+    "name": "nishi",
+    "minute": 2,
+    "second": 21,
+    "text": "Ó igen, pontosan."
+  },
+  {
+    "name": "yuki",
+    "minute": 2,
+    "second": 23,
+    "text": "Mi. tényleg szereti az ilyet Toru?"
+  },
+  {
+    "name": "toru",
+    "minute": 2,
+    "second": 26,
+    "text": "Nem igazán tudom.\nÚgy tűnik, hogy nincs barátja, akit megkérdezhetnénk."
+  },
+  {
+    "name": "hori",
+    "minute": 2,
+    "second": 31,
+    "text": "Sajnálom. sietnem kell!"
+  },
+  {
+    "name": "toru",
+    "minute": 2,
+    "second": 36,
+    "text": "Hori mindig siet…"
+  },
+  {
+    "name": "yuki",
+    "minute": 2,
+    "second": 40,
+    "text": "Valószínűleg azért, mert van egy barátja."
+  },
+  {
+    "name": "toru",
+    "minute": 2,
+    "second": 42,
+    "text": "Egy barátja?!"
+  },
+  {
+    "name": "yuki",
+    "minute": 2,
+    "second": 43,
+    "text": "Úgy értem, csinos és népszerű. Nem lennék meglepve."
+  },
+  {
+    "name": "hori",
+    "minute": 2,
+    "second": 51,
+    "text": "Rendben!\nSzia Anya\nVettem, elintézem a vacsorát. Tudom, nem szabad túlhajszolnom magam. Szia.\nJobb, ha megyek..\nSota!"
+  },
+  {
+    "name": "souta",
+    "minute": 3,
+    "second": 19,
+    "text": "Onee-chan!"
+  },
+  {
+    "name": "óvónő",
+    "minute": 3,
+    "second": 20,
+    "text": "Itt is vagy!"
+  },
+  {
+    "name": "utcán",
+    "minute": 3,
+    "second": 27,
+    "text": "-Hát nem?\n-Meg akarod nézni azt a boltot, amit a divatlapban látunk?\n-Várj, most?\n- Igen, menjünk!"
+  },
+  {
+    "name": "hori",
+    "minute": 3,
+    "second": 34,
+    "text": "Legyen hamburger vacsorár.."
+  },
+  {
+    "name": "souta",
+    "minute": 3,
+    "second": 35,
+    "text": "Juhé!"
+  },
+  {
+    "name": "hori",
+    "minute": 5,
+    "second": 11,
+    "text": "Túlórázni és dolgozni a szabadnapján...\nNagyon örülnék, ha megtanulna nemet mondani az embereknek…"
+  },
+  {
+    "name": "souta",
+    "minute": 5,
+    "second": 22,
+    "text": "Onee-Chan!"
+  },
+  {
+    "name": "hori",
+    "minute": 5,
+    "second": 23,
+    "text": "Hm?\nMi a baj?\nSota! Mi történt?!"
+  },
+  {
+    "name": "souta",
+    "minute": 5,
+    "second": 32,
+    "text": "Elestem"
+  },
+  {
+    "name": "hori",
+    "minute": 5,
+    "second": 34,
+    "text": "Jaj… Hol a zsebkendőd, kishaver?"
+  },
+  {
+    "name": "miyamura",
+    "minute": 5,
+    "second": 36,
+    "text": "Ö-Öhm…"
+  },
+  {
+    "name": "hori",
+    "minute": 5,
+    "second": 39,
+    "text": "Mi?!"
+  },
+  {
+    "name": "miyamura",
+    "minute": 5,
+    "second": 30,
+    "text": "Azt hiszem, most már jól van, úgy hogy megyek"
+  },
+  {
+    "name": "hori",
+    "minute": 5,
+    "second": 43,
+    "text": "Teljesen figyelmen kívül hagytam őt!\nÖ-Öhm sajnálom, hogy gondoskodnod kellett róla.."
+  },
+  {
+    "name": "miyamura",
+    "minute": 5,
+    "second": 49,
+    "text": "Nem gond.\nAkkor most megyek"
+  },
+  {
+    "name": "hori",
+    "minute": 5,
+    "second": 54,
+    "text": "Sota?"
+  },
+  {
+    "name": "miyamura",
+    "minute": 5,
+    "second": 55,
+    "text": "Öh, öhm"
+  },
+  {
+    "name": "hori",
+    "minute": 5,
+    "second": 57,
+    "text": "Ha nem sietsz, nem maradnál egy kicsit?"
+  },
+  {
+    "name": "miyamura",
+    "minute": 6,
+    "second": 1,
+    "text": "R-Rendben, de"
+  },
+  {
+    "name": "hori",
+    "minute": 6,
+    "second": 4,
+    "text": "Kérlek meg kell köszönnöm, hogy gondoskodtál róla!"
+  },
+  {
+    "name": "miyamura",
+    "minute": 6,
+    "second": 8,
+    "text": "Megijedt egy kutyától és elesett."
+  },
+  {
+    "name": "hori",
+    "minute": 6,
+    "second": 11,
+    "text": "Köszönöm, hogy ekkora kerülőt tettél érte."
+  },
+  {
+    "name": "miyamura",
+    "minute": 6,
+    "second": 13,
+    "text": "Ó nem, én köszönöm, hogy vendégül látsz."
+  },
+  {
+    "name": "souta",
+    "minute": 6,
+    "second": 15,
+    "text": "Onee-chan, tényleg keserű a kávéd?"
+  },
+  {
+    "name": "miyamura",
+    "minute": 6,
+    "second": 19,
+    "text": "Tényleg az.\nJó gyerek. Bemutatkozott meg minden."
+  },
+  {
+    "name": "hori",
+    "minute": 6,
+    "second": 24,
+    "text": "Ó, köszönöm. Néha eléggé nehezen kezelhető."
+  },
+  {
+    "name": "miyamura",
+    "minute": 6,
+    "second": 29,
+    "text": "Mégis, nagyon lenyűgözött, hogy te gondoskodsz az összes házimunkáról.\nNem néztem volna ki belőled, Hori-san."
+  },
+  {
+    "name": "hori",
+    "minute": 6,
+    "second": 34,
+    "text": "Ó nem…."
+  },
+  {
+    "name": "miyamura",
+    "minute": 6,
+    "second": 37,
+    "text": "Te vagy Hori-san, igaz? Az egyes osztályból?"
+  },
+  {
+    "name": "hori",
+    "minute": 6,
+    "second": 41,
+    "text": "I-Igen én vagyok,\nde…várj…. te az én iskolámba jársz?!"
+  },
+  {
+    "name": "miyamura",
+    "minute": 6,
+    "second": 47,
+    "text": "Mi? Miről beszélsz?\nEgy osztályba járunk. Én vagyok Miyamura"
+  },
+  {
+    "name": "hori",
+    "minute": 6,
+    "second": 52,
+    "text": "Várj… Mi?\nŐ nem lehet ugyanaz!\nMég mindig nem hiszem el!"
+  },
+  {
+    "name": "yuki",
+    "minute": 7,
+    "second": 4,
+    "text": "Hori most elég furcsa arcot vágsz. Jól vagy?"
+  },
+  {
+    "name": "hori",
+    "minute": 7,
+    "second": 9,
+    "text": "Igen, semmiség"
+  },
+  {
+    "name": "yuki",
+    "minute": 7,
+    "second": 10,
+    "text": "Biztos?\nMi? Hori?"
+  },
+  {
+    "name": "hori",
+    "minute": 7,
+    "second": 18,
+    "text": "Miyamura, van egy perced?"
+  },
+  {
+    "name": "miyamura",
+    "minute": 7,
+    "second": 22,
+    "text": "Mi? Azt akarod, hogy újra átjöjjek?"
+  },
+  {
+    "name": "hori",
+    "minute": 7,
+    "second": 26,
+    "text": "N-Nem én! A kisöcsém.\nSota azt akarja, hogy “az a menő srác” jöjjön vele játszani."
+  },
+  {
+    "name": "miyamura",
+    "minute": 7,
+    "second": 33,
+    "text": "Igazán? Akkor veszek neki egy képeskönyvet vagy ilyesmi."
+  },
+  {
+    "name": "hori",
+    "minute": 7,
+    "second": 35,
+    "text": "Nem szükséges. Ezért nem kell kitérőt tenned.\nHű, oké. Sota nagyon izgatott lesz!"
+  },
+  {
+    "name": "miyamura",
+    "minute": 7,
+    "second": 46,
+    "text": "Ez meglepett."
+  },
+  {
+    "name": "hori",
+    "minute": 7,
+    "second": 47,
+    "text": "Micsoda?"
+  },
+  {
+    "name": "miyamura",
+    "minute": 7,
+    "second": 49,
+    "text": "Hogy beszélsz velem.\nA tegnapi után biztos voltam benne, hogy kerülni fogsz engem."
+  },
+  {
+    "name": "hori",
+    "minute": 7,
+    "second": 56,
+    "text": "Miért tennék ilyesmit?\nBár egy kicsit kínos volt, és egy kicsit kiakasztott.\nEgyáltalán nem ilyen vagy az iskolában.\nDe én is ugyanebben a csónakban evezek, Így nem igazán van okom arra hogy elkerüljelek.\nMiért pirultál el?"
+  },
+  {
+    "name": "miyamura",
+    "minute": 8,
+    "second": 14,
+    "text": "Azt hiszem, nem vagyok hozzászokva ahhoz, hogy ilyeneket hallok.\nEz egy picit fura. De köszönöm.\nMi az?"
+  },
+  {
+    "name": "hori",
+    "minute": 8,
+    "second": 26,
+    "text": "Szép mosolyod van."
+  },
+  {
+    "name": "miyamura",
+    "minute": 8,
+    "second": 27,
+    "text": "Mi?"
+  },
+  {
+    "name": "hori",
+    "minute": 8,
+    "second": 28,
+    "text": "Gyakrabban kellene felkötve viselned a hajad.\nÉs levenned a szemüvegedet."
+  },
+  {
+    "name": "miyamura",
+    "minute": 8,
+    "second": 34,
+    "text": "Megtehetném de akkor meglátnák hogy pircingem van."
+  },
+  {
+    "name": "hori",
+    "minute": 8,
+    "second": 36,
+    "text": "Elég sok van neked… Mennyi is pontosan?"
+  },
+  {
+    "name": "miyamura",
+    "minute": 8,
+    "second": 39,
+    "text": "Kilenc, azt hiszem. Négy mindkét fülemen és egy az ajkamon"
+  },
+  {
+    "name": "hori",
+    "minute": 8,
+    "second": 43,
+    "text": "Ez túl sok."
+  },
+  {
+    "name": "miyamura",
+    "minute": 8,
+    "second": 46,
+    "text": "Anya is pont ugyanezt mondta."
+  },
+  {
+    "name": "hori",
+    "minute": 8,
+    "second": 50,
+    "text": "Itt egy pár dolog amit eddig megtudtam a Miyamuráról:"
+  },
+  {
+    "name": "miyamura",
+    "minute": 8,
+    "second": 52,
+    "text": "Szeretem a mangákat, de nem rajongok értük túlságosan!"
+  },
+  {
+    "name": "hori",
+    "minute": 8,
+    "second": 55,
+    "text": "Ő nem egy otaku"
+  },
+  {
+    "name": "miyamura",
+    "minute": 8,
+    "second": 57,
+    "text": "Hoztam egy kis sütit!"
+  },
+  {
+    "name": "hori",
+    "minute": 8,
+    "second": 59,
+    "text": "A családja pékséget üzemeltet"
+  },
+  {
+    "name": "miyamura",
+    "minute": 9,
+    "second": 2,
+    "text": "Igen, nagyon fájt, amikor megcsináltam."
+  },
+  {
+    "name": "hori",
+    "minute": 9,
+    "second": 5,
+    "text": "magának szúrta át egy biztostűvel még középiskolában.\nÉs…  ó…\nNem túl jó tanuló"
+  },
+  {
+    "name": "miyamura",
+    "minute": 9,
+    "second": 17,
+    "text": "Elképesztő vagy, Hori-san! Majdnem A-t kaptál!"
+  },
+  {
+    "name": "hori",
+    "minute": 9,
+    "second": 19,
+    "text": "Ez teljesen átlagos.\nViszont a csendes, szemüveges srácoknak nem kellene okosnak lenniük?"
+  },
+  {
+    "name": "miyamura",
+    "minute": 9,
+    "second": 24,
+    "text": "Így lenne?"
+  },
+  {
+    "name": "hori",
+    "minute": 9,
+    "second": 28,
+    "text": "Ilyenkor jövök rá, hogy az első benyomásommal teljesen félreismertem őt."
+  },
+  {
+    "name": "miyamura",
+    "minute": 9,
+    "second": 34,
+    "text": "Ez meg mi? Egy szupermarket hirdetése?"
+  },
+  {
+    "name": "hori",
+    "minute": 9,
+    "second": 36,
+    "text": "Igen. Eladó a tojás-\nAz alsó szempillái nagyon hosszúak…"
+  },
+  {
+    "name": "miyamura",
+    "minute": 9,
+    "second": 45,
+    "text": "Hori- san?"
+  },
+  {
+    "name": "hori",
+    "minute": 9,
+    "second": 46,
+    "text": "Ó, khm!\nHolnap egy ideig vásárlási korlát nélkül lehet tojást vásárolni."
+  },
+  {
+    "name": "miyamura",
+    "minute": 9,
+    "second": 52,
+    "text": "De ez csak délután 4-ig szól."
+  },
+  {
+    "name": "hori",
+    "minute": 9,
+    "second": 53,
+    "text": "Tudom, nem lesz gond.\nHa nincs rendkívüli bizottsági ülés vagy ilyesmi, egy egész teherautónyi tojást tudok majd venni hazafelé!"
+  },
+  {
+    "name": "iskola",
+    "minute": 10,
+    "second": 4,
+    "text": "Az összes bizottsági tag jelentkezzen az AV szobánál az osztályfőnöki óra után!"
+  },
+  {
+    "name": "hori",
+    "minute": 10,
+    "second": 8,
+    "text": "Milyen jó időzítés..\nDe nem adom fel… Azokat a tojásokat."
+  },
+  {
+    "name": "miyamura",
+    "minute": 10,
+    "second": 14,
+    "text": "Ó, Hori- san\nMost kellene megvennem őket?!\nÉs ebben a hőségben kell futnom?\nHúsz percem maradt… A rövidebb úton megyek!\nBocsi, Tojásidő van!"
+  },
+  {
+    "name": "yuki",
+    "minute": 10,
+    "second": 56,
+    "text": "Mi?! Tojásidő?"
+  },
+  {
+    "name": "hori",
+    "minute": 11,
+    "second": 3,
+    "text": "Váó, ezer hála!"
+  },
+  {
+    "name": "miyamura",
+    "minute": 11,
+    "second": 6,
+    "text": "Azok az őrölt háziasszonyok ijesztőek… Többet nem csinálok ilyet…\nÓ, igen Összefutottam valakivel útközben.."
+  },
+  {
+    "name": "hori",
+    "minute": 11,
+    "second": 19,
+    "text": "Mi? Kivel? Hol?"
+  },
+  {
+    "name": "miyamura",
+    "minute": 11,
+    "second": 21,
+    "text": "Azzal a Yuki lánnyal akivel lógni szoktál."
+  },
+  {
+    "name": "hori",
+    "minute": 11,
+    "second": 23,
+    "text": "Ó…\nIlyen öltözékben futottál össze vele?"
+  },
+  {
+    "name": "miyamura",
+    "minute": 11,
+    "second": 29,
+    "text": "Igen, de nem hiszem, hogy ő felismert volna."
+  },
+  {
+    "name": "hori",
+    "minute": 11,
+    "second": 32,
+    "text": "Értem.."
+  },
+  {
+    "name": "miyamura,",
+    "minute": 11,
+    "second": 34,
+    "text": "Jó étvágyat!"
+  },
+  {
+    "name": "miyamura",
+    "minute": 11,
+    "second": 38,
+    "text": "Vigyázz, ne öntsd ki!"
+  },
+  {
+    "name": "souta",
+    "minute": 11,
+    "second": 39,
+    "text": "Rendben!"
+  },
+  {
+    "name": "hori",
+    "minute": 11,
+    "second": 41,
+    "text": "Nem akarom, hogy bárki más is így lásson téged Miyamura\nSajnálom, nem számít! Felejtsd el!\nElfelejtettem innivalót venni. Árpatea jó lesz?"
+  },
+  {
+    "name": "souta",
+    "minute": 12,
+    "second": 0,
+    "text": "Onii-chan, te fogsz enni?"
+  },
+  {
+    "name": "miyamura",
+    "minute": 12,
+    "second": 4,
+    "text": "Hori- san, én..\nAmikor így látlak, amikor vacsorát főzöl, vagy mérges vagy és hangosan kiabálsz.\nAz, hogy nem érdekel, hogy néz ki a hajad itthon és hogy egy kicsit erős vagy, persze jó értelemben-"
+  },
+  {
+    "name": "hori",
+    "minute": 12,
+    "second": 19,
+    "text": "Elég legyen!"
+  },
+  {
+    "name": "miyamura",
+    "minute": 12,
+    "second": 21,
+    "text": "Én se szeretném ha bárki más látná ezt az oldaladat."
+  },
+  {
+    "name": "hori",
+    "minute": 12,
+    "second": 24,
+    "text": "Én sem."
+  },
+  {
+    "name": "miyamura",
+    "minute": 12,
+    "second": 27,
+    "text": "Olyan érzés, mintha ez a pillanat az enyém lenne, és csak az enyém."
+  },
+  {
+    "name": "hori",
+    "minute": 12,
+    "second": 34,
+    "text": "Ne mondj ilyeneket, te hülye!"
+  },
+  {
+    "name": "souta",
+    "minute": 12,
+    "second": 39,
+    "text": "Kaphatnék én is, légyszi?\nKöszönöm!"
+  },
+  {
+    "name": "hori",
+    "minute": 12,
+    "second": 46,
+    "text": "Hogy mondhat valaki ilyen kínos dolgot ilyen faarccal?\nNem veszi észre? Ennyire hülye?\nTe hülye. Olyan hülye vagy! Nagyon hülye!\nHülye Hülye Hülye"
+  },
+  {
+    "name": "miyamura",
+    "minute": 12,
+    "second": 57,
+    "text": "Hülye vagyok?"
+  },
+  {
+    "name": "souta",
+    "minute": 12,
+    "second": 59,
+    "text": "A nővérem nem tudja abbahagyni a hülyézést, ha egyszer kimondta."
+  },
+  {
+    "name": "miyamura",
+    "minute": 13,
+    "second": 2,
+    "text": "Tényleg?"
+  },
+  {
+    "name": "hori",
+    "minute": 13,
+    "second": 4,
+    "text": "Hülye, hülye, hülye!"
+  },
+  {
+    "name": "souta",
+    "minute": 13,
+    "second": 8,
+    "text": "*felnevet*"
+  },
+  {
+    "name": "miyamura",
+    "minute": 13,
+    "second": 8,
+    "text": "*felnevet*"
+  },
+  {
+    "name": "miyamura",
+    "minute": 13,
+    "second": 8,
+    "text": "Igazad volt!"
+  },
+  {
+    "name": "hori",
+    "minute": 13,
+    "second": 9,
+    "text": "Min nevetsz?\nMindenkinek van egy olyan oldala, amit nem akar, hogy bárki más megismerjen."
+  },
+  {
+    "name": "miyamura",
+    "minute": 13,
+    "second": 15,
+    "text": "Nem mintha nem tetszene az, amilyen a suliban vagy, de tetszik ez az oldalad, aki hirtelen mérges lesz, és otthoni ruhákba öltözik.\nSzerintem sokkal csinosabb vagy így."
+  },
+  {
+    "name": "hori",
+    "minute": 13,
+    "second": 24,
+    "text": "Most mindketten megmutattuk ezt az oldalunkat egymásnak.\nMindegy attól még…hülye vagy."
+  },
+  {
+    "name": "miyamura",
+    "minute": 13,
+    "second": 37,
+    "text": "Mostantól csak egyre melegebb lesz."
+  },
+  {
+    "name": "hori",
+    "minute": 13,
+    "second": 39,
+    "text": "Így van."
+  },
+  {
+    "name": "miyamura",
+    "minute": 13,
+    "second": 40,
+    "text": "Folyamatosan zakót hordani kínzás lesz."
+  },
+  {
+    "name": "hori",
+    "minute": 13,
+    "second": 44,
+    "text": "Igen, de legalább"
+  },
+  {
+    "name": "miyamura",
+    "minute": 13,
+    "second": 47,
+    "text": "Hori-san, bajban vagyok! Úszni fogunk tesin!\nBajban vagyok!"
+  },
+  {
+    "name": "hori",
+    "minute": 13,
+    "second": 52,
+    "text": "Ó igen, Így lesz..\nMi a baj az úszással? Jobb, mintha maratont futnánk!\n13:58 Miyamura\nAz úszás sokkal rosszabb! Mindent meglátnak!"
+  },
+  {
+    "name": "hori",
+    "minute": 14,
+    "second": 0,
+    "text": "Hogy érted, hogy mind-"
+  },
+  {
+    "name": "miyamura",
+    "minute": 14,
+    "second": 4,
+    "text": "Mit csináljak ezekkel?"
+  },
+  {
+    "name": "hori",
+    "minute": 14,
+    "second": 10,
+    "text": "Néha nem tudom eldönteni, hogy hihetetlenül merész vagy-e, vagy csak hihetetlenül ostoba.\n… legalább az úszás választható volt, nem?"
+  },
+  {
+    "name": "miyamura",
+    "minute": 14,
+    "second": 19,
+    "text": "Igen, tényleg..\nDe mi van ha maratont kell futnunk? Fel kell vennem a zakót!\nMeghalnék a hőguta miatt!"
+  },
+  {
+    "name": "hori",
+    "minute": 14,
+    "second": 26,
+    "text": "Nem hiszem hogy maratonfutásra kényszerítenének."
+  },
+  {
+    "name": "yuki",
+    "minute": 14,
+    "second": 32,
+    "text": "Az utóbbi időben nagyon sokat látni őket együtt."
+  },
+  {
+    "name": "toru",
+    "minute": 14,
+    "second": 36,
+    "text": "Nem gondoltam, hogy ő is ide kerül."
+  },
+  {
+    "name": "fiú",
+    "minute": 14,
+    "second": 38,
+    "text": "Hori, hadd nézzem meg a jegyzeteidet!"
+  },
+  {
+    "name": "nishi",
+    "minute": 14,
+    "second": 41,
+    "text": "Ó, én is akarom látni!"
+  },
+  {
+    "name": "hori",
+    "minute": 14,
+    "second": 43,
+    "text": "Ah, Jó, de legközelebb nem…"
+  },
+  {
+    "name": "fiú",
+    "minute": 14,
+    "second": 47,
+    "text": "Ó.. Köszi Hori!"
+  },
+  {
+    "name": "toru",
+    "minute": 14,
+    "second": 51,
+    "text": "Elég népszerű, nem?"
+  },
+  {
+    "name": "miyamura",
+    "minute": 14,
+    "second": 53,
+    "text": "Mi, izé, mi népszerű?"
+  },
+  {
+    "name": "toru",
+    "minute": 14,
+    "second": 56,
+    "text": "Hori"
+  },
+  {
+    "name": "miyamura",
+    "minute": 14,
+    "second": 58,
+    "text": "Áh, igen. Bárcsak én is olyan jó jegyeket kaphatnék, mint ő!"
+  },
+  {
+    "name": "toru",
+    "minute": 15,
+    "second": 2,
+    "text": "Miyamura-san"
+  },
+  {
+    "name": "miyamura",
+    "minute": 15,
+    "second": 3,
+    "text": "Mi? M-mi az?"
+  },
+  {
+    "name": "toru",
+    "minute": 15,
+    "second": 5,
+    "text": "Te és Hori jól kijöttök mostanában.\nRandiztok?"
+  },
+  {
+    "name": "miyamura",
+    "minute": 15,
+    "second": 10,
+    "text": "Természetesen nem, ez nevetséges!"
+  },
+  {
+    "name": "toru",
+    "minute": 15,
+    "second": 15,
+    "text": "Gondoltam\nTi ketten nem igazán hasonlítotok!"
+  },
+  {
+    "name": "miyamura",
+    "minute": 15,
+    "second": 21,
+    "text": "Igen, igazad van. Nem alkotnánk jó párost.\nMi- mi csak nem illünk össze, és…"
+  },
+  {
+    "name": "toru",
+    "minute": 15,
+    "second": 30,
+    "text": "Figyelj mit mondasz ember!"
+  },
+  {
+    "name": "hori",
+    "minute": 15,
+    "second": 31,
+    "text": "Nem gyakran látni őket együtt."
+  },
+  {
+    "name": "yuki",
+    "minute": 15,
+    "second": 33,
+    "text": "Menjünk Hori."
+  },
+  {
+    "name": "miyamura",
+    "minute": 15,
+    "second": 35,
+    "text": "S-sajnálom… Öm.."
+  },
+  {
+    "name": "toru",
+    "minute": 15,
+    "second": 37,
+    "text": "Mi az?"
+  },
+  {
+    "name": "miyamura",
+    "minute": 15,
+    "second": 38,
+    "text": "Ishikawa-kun beleszerettél Hori-sanba?"
+  },
+  {
+    "name": "toru",
+    "minute": 15,
+    "second": 43,
+    "text": "Mi?\nÉs mi van, ha igen?"
+  },
+  {
+    "name": "miyamura",
+    "minute": 15,
+    "second": 48,
+    "text": "Várj, tényleg?"
+  },
+  {
+    "name": "toru",
+    "minute": 15,
+    "second": 50,
+    "text": "Mi van?"
+  },
+  {
+    "name": "miyamura",
+    "minute": 15,
+    "second": 51,
+    "text": "Szóval ezért bámulsz engem, amikor Hori-sannal beszélek!"
+  },
+  {
+    "name": "toru",
+    "minute": 15,
+    "second": 55,
+    "text": "Igen Így van! Szóval ne .."
+  },
+  {
+    "name": "miyamura",
+    "minute": 15,
+    "second": 58,
+    "text": "Sajnálom, Ishikawa-kun, nem tudtam, hogy beleszerettél Hori-sanba!"
+  },
+  {
+    "name": "toru",
+    "minute": 16,
+    "second": 3,
+    "text": "Ne kürtöld szét az egész iskolában, te idióta!"
+  },
+  {
+    "name": "miyamura",
+    "minute": 16,
+    "second": 5,
+    "text": "Ó, sajnálom. Ez titok? Nagyon sajnálom!"
+  },
+  {
+    "name": "shu",
+    "minute": 16,
+    "second": 8,
+    "text": "Hé! Mit csináltok? Tesink lesz!"
+  },
+  {
+    "name": "toru",
+    "minute": 16,
+    "second": 17,
+    "text": "Már így is késésben vagyunk, szóval nem kell kapkodnunk.\nIgazából lenne valami… ami már egy ideje érdekel.\nMiért van rajtad a téli egyenruha a nyár közepén?"
+  },
+  {
+    "name": "miyamura",
+    "minute": 16,
+    "second": 25,
+    "text": "Öhm, nos..\nFázom?"
+  },
+  {
+    "name": "toru",
+    "minute": 16,
+    "second": 28,
+    "text": "Úgy izzadsz, mint egy ló"
+  },
+  {
+    "name": "miyamura",
+    "minute": 16,
+    "second": 31,
+    "text": "Tudom hogy ez furán fog hangzani Ishikawa-kun,\nde az egyetlen ember, aki látott engem zakó nélkül, az Hori-san."
+  },
+  {
+    "name": "toru",
+    "minute": 16,
+    "second": 38,
+    "text": "Hori? Miért?"
+  },
+  {
+    "name": "miyamura",
+    "minute": 16,
+    "second": 41,
+    "text": "Ishikawa-kun, nem árulsz be egy tanárnak sem ugye?"
+  },
+  {
+    "name": "toru",
+    "minute": 16,
+    "second": 45,
+    "text": "Dehogy, sose tenném!"
+  },
+  {
+    "name": "miyamura",
+    "minute": 16,
+    "second": 47,
+    "text": "Nagy baj lenne, ha rájönnének. Szóval kérlek ne mond el senkinek!"
+  },
+  {
+    "name": "toru",
+    "minute": 16,
+    "second": 53,
+    "text": "Mi a fene? Azok tetoválások? Várj, Valódiak?"
+  },
+  {
+    "name": "miyamura",
+    "minute": 16,
+    "second": 57,
+    "text": "Igen"
+  },
+  {
+    "name": "toru",
+    "minute": 16,
+    "second": 58,
+    "text": "Már értem, miért nem hordasz rövid ujjú egyenruhát."
+  },
+  {
+    "name": "miyamura",
+    "minute": 17,
+    "second": 0,
+    "text": "Igen"
+  },
+  {
+    "name": "toru",
+    "minute": 17,
+    "second": 1,
+    "text": "Istenem… Tökre azt hittem, hogy furcsa, komor otaku típusú srác vagy,\nde tévedtem."
+  },
+  {
+    "name": "miyamura",
+    "minute": 17,
+    "second": 10,
+    "text": "Az otakuval kapcsolatban tévedtél de a többivel nem."
+  },
+  {
+    "name": "toru",
+    "minute": 17,
+    "second": 14,
+    "text": "Jobban megnézve, szép az arca.\nBár a haja visszataszító"
+  },
+  {
+    "name": "miyamura",
+    "minute": 17,
+    "second": 19,
+    "text": "Ma a tornateremben van a tesink igaz?"
+  },
+  {
+    "name": "toru",
+    "minute": 17,
+    "second": 22,
+    "text": "Ez az a fajta arc, amit Hori szeret?"
+  },
+  {
+    "name": "miyamura",
+    "minute": 17,
+    "second": 24,
+    "text": "M-Micsoda?"
+  },
+  {
+    "name": "toru",
+    "minute": 17,
+    "second": 25,
+    "text": "Azta! haver neked piercinged is van?"
+  },
+  {
+    "name": "miyamura",
+    "minute": 17,
+    "second": 29,
+    "text": "Shhh!"
+  },
+  {
+    "name": "tesi",
+    "minute": 17,
+    "second": 32,
+    "text": "Rendben, következő!"
+  },
+  {
+    "name": "toru",
+    "minute": 17,
+    "second": 34,
+    "text": "Furcsa egy srác vagy.\nMiért tetováltattál és szúrattad ki a füled ha csak úgy eldugod?"
+  },
+  {
+    "name": "miyamura",
+    "minute": 17,
+    "second": 41,
+    "text": "Tudod, hogy milyen az, amikor valamit a pillanat hevében csinálsz?"
+  },
+  {
+    "name": "toru",
+    "minute": 17,
+    "second": 43,
+    "text": "Nem..\nHa továbbra is rejtegetni akarod őket akkor nem mondom el senkinek.\nBár azt tudni akarom, Hogy te és Hori-san miért lettetek hirtelen ilyen jóban."
+  },
+  {
+    "name": "miyamura",
+    "minute": 17,
+    "second": 57,
+    "text": "Nem hirtelen történt. Valójában egy kicsit régebbi történet. De úgy érzem, hogy csak kedves velem. Nem vagyunk többek, mint barátok ne aggódj."
+  },
+  {
+    "name": "toru",
+    "minute": 18,
+    "second": 8,
+    "text": "Szóval nem bánod, ha randira hívom?"
+  },
+  {
+    "name": "miyamura",
+    "minute": 18,
+    "second": 12,
+    "text": "M-miért kéred ki az engedélyemet?"
+  },
+  {
+    "name": "toru",
+    "minute": 18,
+    "second": 15,
+    "text": "Őszintén, nem tudom."
+  },
+  {
+    "name": "miyamura",
+    "minute": 18,
+    "second": 18,
+    "text": "Ez Hori-sanon múlik."
+  },
+  {
+    "name": "yuki",
+    "minute": 18,
+    "second": 27,
+    "text": "Nem hiszem el hogy kihagytad a tesit, Toru\nNeked is volt feladatod! Nekem kellett helyetted kitakarítanom!"
+  },
+  {
+    "name": "toru",
+    "minute": 18,
+    "second": 34,
+    "text": "Mondtam, hogy sajnálom!"
+  },
+  {
+    "name": "yuki",
+    "minute": 18,
+    "second": 36,
+    "text": "Gondolj bele, mit tettél!"
+  },
+  {
+    "name": "toru",
+    "minute": 18,
+    "second": 37,
+    "text": "Én tudom!"
+  },
+  {
+    "name": "hori",
+    "minute": 18,
+    "second": 38,
+    "text": "Toruval lógtál? Ez nem mindennapos."
+  },
+  {
+    "name": "miyamura",
+    "minute": 18,
+    "second": 41,
+    "text": "Ó, igen. Csak beszélgettünk."
+  },
+  {
+    "name": "hori",
+    "minute": 18,
+    "second": 47,
+    "text": "Hé miért kerülsz engem?"
+  },
+  {
+    "name": "miyamura",
+    "minute": 18,
+    "second": 49,
+    "text": "Nem kerüllek.."
+  },
+  {
+    "name": "hori",
+    "minute": 18,
+    "second": 51,
+    "text": "Nézz a szemembe amikor hozzám beszélsz!"
+  },
+  {
+    "name": "miyamura",
+    "minute": 18,
+    "second": 53,
+    "text": "N-nem, csak .."
+  },
+  {
+    "name": "hori",
+    "minute": 18,
+    "second": 54,
+    "text": "Mi az? Valami rosszat tettem?"
+  },
+  {
+    "name": "miyamura",
+    "minute": 18,
+    "second": 56,
+    "text": "N-nem.."
+  },
+  {
+    "name": "toru",
+    "minute": 18,
+    "second": 58,
+    "text": "Hori!"
+  },
+  {
+    "name": "hori",
+    "minute": 18,
+    "second": 59,
+    "text": "Mi?"
+  },
+  {
+    "name": "toru",
+    "minute": 19,
+    "second": 0,
+    "text": "Később beszéljünk. Iskola után ráérsz?"
+  },
+  {
+    "name": "hori",
+    "minute": 19,
+    "second": 4,
+    "text": "Iskola után?\nÓ, de én-"
+  },
+  {
+    "name": "miyamura",
+    "minute": 19,
+    "second": 8,
+    "text": "Hori-san, elmegyek helyetted Sotaért. Menj és beszélj Ishikawa-kunnal, rendben?"
+  },
+  {
+    "name": "hori",
+    "minute": 19,
+    "second": 14,
+    "text": "Mi? De.."
+  },
+  {
+    "name": "souta",
+    "minute": 19,
+    "second": 37,
+    "text": "Ó, Onee-chan hazaért!"
+  },
+  {
+    "name": "miyamura",
+    "minute": 19,
+    "second": 41,
+    "text": "Ha elkezdenek randizni, csak egy harmadik kerék lennék."
+  },
+  {
+    "name": "hori",
+    "minute": 19,
+    "second": 46,
+    "text": "Bocsi, hogy késtem, Sota!\nMindjárt elkezdem a vacsorát!"
+  },
+  {
+    "name": "souta",
+    "minute": 19,
+    "second": 49,
+    "text": "Áh, rendben!"
+  },
+  {
+    "name": "miyamura",
+    "minute": 19,
+    "second": 54,
+    "text": "Üdv itthon!"
+  },
+  {
+    "name": "hori",
+    "minute": 19,
+    "second": 57,
+    "text": "Beszélnünk kell"
+  },
+  {
+    "name": "miyamura",
+    "minute": 19,
+    "second": 59,
+    "text": "Ha azt mondja, hogy többet nem jöhetsz át, akkor ez van."
+  },
+  {
+    "name": "hori",
+    "minute": 20,
+    "second": 3,
+    "text": "Toru mindent elmondott nekem."
+  },
+  {
+    "name": "miyamura",
+    "minute": 20,
+    "second": 5,
+    "text": "Áh, vagy úgy"
+  },
+  {
+    "name": "hori",
+    "minute": 20,
+    "second": 8,
+    "text": "Komolyan azt mondtad neki, hogy szerinted nem lennénk jó pár?"
+  },
+  {
+    "name": "miyamura",
+    "minute": 20,
+    "second": 11,
+    "text": "Mi? "
+  },
+  {
+    "name": "hori",
+    "minute": 20,
+    "second": 13,
+    "text": "Tényleg azt mondtad, hogy azt szerinted csak kedves vagyok veled?"
+  },
+  {
+    "name": "miyamura",
+    "minute": 20,
+    "second": 18,
+    "text": "Várj.. Mi van Ishikawa-kunnal?"
+  },
+  {
+    "name": "hori",
+    "minute": 20,
+    "second": 21,
+    "text": "Felejtsd most el Torut!"
+  },
+  {
+    "name": "miyamura",
+    "minute": 20,
+    "second": 23,
+    "text": "Mi?!"
+  },
+  {
+    "name": "hori",
+    "minute": 20,
+    "second": 24,
+    "text": "Ezt mondtad?\nEzeket mondtad neki, Miyamura?"
+  },
+  {
+    "name": "miyamura",
+    "minute": 20,
+    "second": 32,
+    "text": "I-gen.."
+  },
+  {
+    "name": "hori",
+    "minute": 20,
+    "second": 34,
+    "text": "És így is gondolod?\nMindig ezt gondoltad, amikor átjöttél?"
+  },
+  {
+    "name": "miyamura",
+    "minute": 20,
+    "second": 40,
+    "text": "Nem!\nNem…Csak..\nIshikawa-kunnal igaza van, olyan komor és unalmas vagyok.\nAzt gondoltam, hogy tönkreteszem a hírneved, vagy zavarlak.\nNem úgy gondoltam, hogy igaz vagy ilyesmi.\nHori-san? Miért-?"
+  },
+  {
+    "name": "hori",
+    "minute": 20,
+    "second": 59,
+    "text": "Miért? Miért?\nMiért érdekel a hírnevem? Ne feltételezz dolgokat anélkül, hogy megkérdeznél!\nSoha többé nem mondj ilyet, hülye!"
+  },
+  {
+    "name": "miyamura",
+    "minute": 21,
+    "second": 12,
+    "text": "Sajnálom! Hori-san, Sajnálom!"
+  },
+  {
+    "name": "hori",
+    "minute": 21,
+    "second": 16,
+    "text": "Már csak annak a gondolata, hogy mit mondtál, megőrjít!"
+  },
+  {
+    "name": "miyamura",
+    "minute": 21,
+    "second": 20,
+    "text": "Mi-?\nHori-san?"
+  },
+  {
+    "name": "hori",
+    "minute": 21,
+    "second": 22,
+    "text": "Miyamura ha többet nem jössz át..\nKi fog felébreszteni ha elalszok film közben?\nVagy ki fogja megenni a vacsoraadagod?\nEgy csomó maradék lesz!\nToru?\nÁh, visszautasítottam"
+  },
+  {
+    "name": "miyamura",
+    "minute": 21,
+    "second": 41,
+    "text": "Áh, Nagyon kedvesnek tűnt.."
+  },
+  {
+    "name": "hori",
+    "minute": 21,
+    "second": 44,
+    "text": "Micsoda? Megijesztesz\nSzerelmes vagy belé vagy mi?\nAkkor miért nem randizol vele?"
+  },
+  {
+    "name": "miyamura",
+    "minute": 21,
+    "second": 50,
+    "text": "Nem hiszem hogy jó párost alkotnánk."
+  },
+  {
+    "name": "hori",
+    "minute": 21,
+    "second": 54,
+    "text": "Egyből ez?!"
+  },
+  {
+    "name": "toru",
+    "minute": 23,
+    "second": 29,
+    "text": "Jó reggelt Miyamura..\nSzóval. öhm, tegnap én.."
+  },
+  {
+    "name": "miyamura",
+    "minute": 23,
+    "second": 38,
+    "text": "ÁÁ.... Nem kell hangosan kimondanod Ishikawa- kun!"
+  },
+  {
+    "name": "toru",
+    "minute": 23,
+    "second": 41,
+    "text": "Olyan kedves srác vagy!"
+  },
+  {
+    "name": "yuki",
+    "minute": 23,
+    "second": 45,
+    "text": "Mi folyik itt?"
+  },
+  {
+    "name": "hori",
+    "minute": 23,
+    "second": 46,
+    "text": "Fogalmam sincs. Talán randira hívta?"
+  },
+  {
+    "name": "yuki",
+    "minute": 23,
+    "second": 49,
+    "text": "Ki kérdezi meg?"
+  }
+]
